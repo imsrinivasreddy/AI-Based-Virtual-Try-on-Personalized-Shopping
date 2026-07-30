@@ -29,7 +29,7 @@ pip install -r requirements.txt uvicorn main:app --reload
 cd frontend npm install npm run dev
 
 # Output Example
-Upload user image Select garment Get realistic try-on output (2D + 3D hybrid
+Upload user image Select garment Get realistic try-on output (2D + 3D hybrid)
 
 # Future Improvements
 Mobile app integration AR-based virtual fitting Improved cloth physics simulation
