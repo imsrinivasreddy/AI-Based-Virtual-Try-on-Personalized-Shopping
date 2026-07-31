@@ -81,7 +81,7 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 <img width="733" height="364" alt="image" src="https://github.com/user-attachments/assets/da5e32e3-afcb-488b-8bda-73b3fea4084a" />
 <img width="733" height="417" alt="image" src="https://github.com/user-attachments/assets/547a47c8-7b8a-411d-ad6b-d78d5fb6f0c2" />
 <img width="733" height="457" alt="image" src="https://github.com/user-attachments/assets/94a88bc4-7c5c-416d-9a1d-0210c7d8a14f" />
-<img width="733" height="457" alt="image" src="https://github.com/user-attachments/assets/9943c5c7-44c4-44db-9117-64d1aae01fa6" />
+<img width="732" height="286" alt="image" src="https://github.com/user-attachments/assets/04c6cbad-f2a4-470d-a403-bac519dcf7a6" />
 
 
 
