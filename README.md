@@ -71,3 +71,24 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+# Final Project Overview
+<img width="740" height="372" alt="image" src="https://github.com/user-attachments/assets/83bd7758-9a50-47be-b545-34da9ac7bbc8" />
+<img width="733" height="327" alt="image" src="https://github.com/user-attachments/assets/7da74c17-dc00-456c-836b-4b91fab3c2ea" />
+<img width="733" height="309" alt="image" src="https://github.com/user-attachments/assets/cf569052-600c-476c-83ec-6acd01e2664b" />
+<img width="732" height="299" alt="image" src="https://github.com/user-attachments/assets/cd208b2b-26ca-4e2a-aeb5-a41038be1954" />
+<img width="733" height="392" alt="image" src="https://github.com/user-attachments/assets/998a2f82-e480-4a32-8f5a-267fe1dbfae4" />
+<img width="733" height="524" alt="image" src="https://github.com/user-attachments/assets/b443bc97-69d6-448d-ae79-4a4492928bc8" />
+<img width="733" height="364" alt="image" src="https://github.com/user-attachments/assets/da5e32e3-afcb-488b-8bda-73b3fea4084a" />
+<img width="733" height="417" alt="image" src="https://github.com/user-attachments/assets/547a47c8-7b8a-411d-ad6b-d78d5fb6f0c2" />
+<img width="733" height="457" alt="image" src="https://github.com/user-attachments/assets/94a88bc4-7c5c-416d-9a1d-0210c7d8a14f" />
+<img width="733" height="457" alt="image" src="https://github.com/user-attachments/assets/9943c5c7-44c4-44db-9117-64d1aae01fa6" />
+
+
+
+
+
+
+
+
+
+
